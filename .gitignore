@@ -1,0 +1,31 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code
+.claude/
+
+# Docs internos - no publicar
+docs/infografia_cliente/
+docs/propuesta_comercial.pdf
+
+# Muestras del cliente (referencia, no publicar)
+muestra/
+
+# Reference images (not part of the site)
+1.png
+2.png
+3.png
+4.png
+5.png
+
+# Node (por si se agrega tooling futuro)
+node_modules/
+package-lock.json
